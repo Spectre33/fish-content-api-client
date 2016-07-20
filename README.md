@@ -1,6 +1,4 @@
-# fishContentApiClient
-
-Client for FishContent API
+# Client for FishContent API
 =========
 
 Клиент для API сервиса FishContent - сервис выдачи рыба-текста, рыба-изображений и рыба-контента
