@@ -1,0 +1,14 @@
+{
+    "name": "Spectre33/fishContentApiClient",
+    "description": "Client for FishContent API",
+    "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+    "authors": [
+        {
+            "name": "Spectre33",
+            "email": "spectre33@mail.ru"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    }
+}
