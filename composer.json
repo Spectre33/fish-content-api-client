@@ -1,7 +1,9 @@
 {
     "name": "spectre33/fish-content-api-client",
     "description": "Client for FishContent API",
-    "type": "php",
+    "type": "library",
+    "keywords": ["sdk", "api"],
+    "homepage": "http://fishcontent.ru",
     "license": "GNU GENERAL PUBLIC LICENSE Version 3",
     "support": {
         "source": "https://github.com/spectre33/fish-content-api-client.git"
@@ -13,6 +15,8 @@
         }
     ],
     "require": {
-        "php": ">=5.4"
+        "php": ">=5.4",
+        "ext-curl": "*",
+        "ext-json": "*"
     }
 }
