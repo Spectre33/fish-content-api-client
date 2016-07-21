@@ -4,11 +4,11 @@
     "type": "php",
     "license": "GNU GENERAL PUBLIC LICENSE Version 3",
     "support": {
-        "source": "https://github.com/Spectre33/fish-content-api-client.git"
+        "source": "https://github.com/spectre33/fish-content-api-client.git"
     },
     "authors": [
         {
-            "name": "Spectre33",
+            "name": "spectre33",
             "email": "spectre33@mail.ru"
         }
     ],

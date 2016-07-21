@@ -5,7 +5,7 @@
 
 ## Установка
 
-* Установка через [composer](http://getcomposer.org/download/) ```"Spectre33/fish-content-api-client": "*"```
+* Установка через [composer](http://getcomposer.org/download/) ```"spectre33/fish-content-api-client": "*"```
 
 ## Использование
 
@@ -26,4 +26,4 @@ var_dump($fishContent);
 ```
 
 ## Todo
-* Задачи/вопросы? Отправляйте на [github issue](https://github.com/Spectre33/fish-content-api-client/issues)
+* Задачи/вопросы? Отправляйте на [github issue](https://github.com/spectre33/fish-content-api-client/issues)
