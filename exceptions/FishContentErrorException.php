@@ -13,7 +13,7 @@ class FishContentErrorException extends \ErrorException {
      * @param \Exception|null $previous
      */
     public function __construct($message = "", $code = 0, \Exception $previous = null) {
-        parent::__construct($this->getName(), 500);
+        parent::__construct($this->getName() . ': ' . $message, 500);
     }
 
     /**

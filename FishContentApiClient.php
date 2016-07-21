@@ -14,7 +14,7 @@ class FishContentApiClient {
     /**
      * Url API хоста
      */
-    const API_HOST = 'http://fishcontent.ru/';
+    const API_HOST = 'http://api.fishcontent.ru/';
 
     /**
      * Url получения текстов
