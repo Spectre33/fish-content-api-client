@@ -3,6 +3,9 @@
     "description": "Client for FishContent API",
     "type": "php",
     "license": "GNU GENERAL PUBLIC LICENSE Version 3",
+    "support": {
+        "source": "https://github.com/Spectre33/fishContentApiClient.git"
+    },
     "authors": [
         {
             "name": "Spectre33",
